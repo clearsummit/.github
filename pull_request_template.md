@@ -1,5 +1,5 @@
 # Jira
-[ticket number]
+[TIX-NUM](https://clearsummit.atlassian.net/browse/TIX-NUM)
 
 # Description
 Brief description of the changes introduced
