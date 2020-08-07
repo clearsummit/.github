@@ -6,4 +6,4 @@ Brief description of the changes introduced
 
 
 # Proof of Work
-![Screenshot or video of changes introduced]()
+<img alt="Screenshot or video of changes introduced" src="<uploaded_image_url>" width="250" />
